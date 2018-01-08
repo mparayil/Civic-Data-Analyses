@@ -45,9 +45,9 @@ sat_scores.csv
 
 ## Useful Resources
 
--A [cheatsheet](https://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html) of descriptive statistics methods in Pandas.
+- A [cheatsheet](https://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html) of descriptive statistics methods in Pandas.
 
-- The [seaborn example gallery](http://seaborn.pydata.org/examples/) may help you find the right code, and decide what you want to do in the first place.
+- The [seaborn example gallery](http://seaborn.pydata.org/examples/)
 
 - https://python-graph-gallery.com/
 
